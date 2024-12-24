@@ -1,4 +1,5 @@
 DSP Toolbox in Python
+
 This project is a Python-based toolbox for generating, analyzing, and processing digital signals. It is designed to be user-friendly and modular, catering to both educational and practical applications in Digital Signal Processing.
 
 Key Features:
